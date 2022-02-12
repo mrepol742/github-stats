@@ -60,7 +60,7 @@ jobs:
     # Commits all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config --global user.name "mrepol742/github-stats"
+        git config --global user.name "mrepol742"
         git config --global user.email "mrepol742@gmail.com"
         git add .
         # "echo" returns true so the build succeeds, even if no changed files
