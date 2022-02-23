@@ -26,16 +26,6 @@ foreignObject {
   height: calc(100% - 10px - 24px);
 }
 
-h2 {
-  margin-top: 0;
-  margin-bottom: 0.75em;
-  line-height: 24px;
-  font-size: 16px;
-  font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
-}
-
 ul {
   list-style: none;
   padding-left: 0;
@@ -92,11 +82,11 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(36, 41, 46);
+  color: #4285f4;
 }
 
 .percent {
-  color: rgb(88, 96, 105)
+  color: #4285f4;
 }
 </style>
 <g>
@@ -104,9 +94,6 @@ div.ellipsis {
 <g>
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
-
-<h2>Languages Used (By File Size)</h2>
-
 <div>
 <span class="progress">
 {{ progress }}
