@@ -1,7 +1,12 @@
 <svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
 <style>
+@font-face {
+    font-family: 'Maven Pro';
+    src: url("https://mrepol742.github.io/fonts/Maven-Pro.ttf");
+}
+  
 svg {
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-family: 'Maven Pro';
   font-size: 14px;
   line-height: 21px;
 }
@@ -9,8 +14,8 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
+  fill: transparent;
+  stroke: transparent;
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
