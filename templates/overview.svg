@@ -39,7 +39,7 @@ th {
   text-align: left;
   font-size: 14px;
   font-weight: 600;
-  color: rgb(3, 102, 214);
+  color: #4285f4;
 }
 
 td {
@@ -48,7 +48,7 @@ td {
   padding: 0.25em;
   font-size: 12px;
   line-height: 18px;
-  color: rgb(88, 96, 105);
+  color: #4285f4;
 }
 
 tr {
@@ -79,7 +79,7 @@ tr {
 
 <table>
 <thead><tr style="transform: translateX(0);">
-<th colspan="2">{{ name }}'s GitHub Stats</th>
+<th colspan="2"></th>
 </tr></thead>
 <tbody>
 
