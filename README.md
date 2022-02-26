@@ -1,17 +1,10 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
-<a href="https://mrepol742.github.io">
+#github-stats
 
 ![](https://github.com/mrepol742/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/mrepol742/github-stats/blob/master/generated/languages.svg)
 
-</a>
-
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
-
-This project is currently a work-in-progress; there will always be more
-interesting stats to display.
 
 ## Background
 
@@ -69,7 +62,7 @@ For more information on inaccuracies, see issue
    - Some users are reporting that it can take a few minutes for the personal
      access token to work. For more, see 
      [#30](https://github.com/jstrieb/github-stats/issues/30).
-2. Click [here](https://github.com/jstrieb/github-stats/generate) to create a
+2. Click [here](https://github.com/mrepol742/github-stats/generate) to create a
    copy of this repository. Note: this is not the same as forking a copy
    because it copies everything fresh, without the huge commit history. 
 3. If this is the README of your fork, click [this
@@ -87,7 +80,7 @@ For more information on inaccuracies, see issue
    - To show statistics only for "owned" repositories and not forks with
      contributions, add an environment variable (under the `env` header in the
      [main
-     workflow](https://github.com/jstrieb/github-stats/blob/master/.github/workflows/main.yml))
+     workflow](https://github.com/mrepol742/github-stats/blob/master/.github/workflows/README.yml))
      called `EXCLUDE_FORKED_REPOS` with a value of `true`.
 6. Go to the [Actions
    Page](../../actions?query=workflow%3A"Generate+Stats+Images") and press "Run
@@ -110,32 +103,7 @@ For more information on inaccuracies, see issue
 10. Star this repo if you like it!
 
 
-# Support the Project
-
-There are a few things you can do to support the project:
-
-- Star the repository (and follow me on GitHub for more)
-- Share and upvote on sites like Twitter, Reddit, and Hacker News
-- Report any bugs, glitches, or errors that you find
-
-These things motivate me to to keep sharing what I build, and they provide
-validation that my work is appreciated! They also help me improve the
-project. Thanks in advance!
-
-If you are insistent on spending money to show your support, I encourage you to
-instead make a generous donation to one of the following organizations. By advocating
-for Internet freedoms, organizations like these help me to feel comfortable
-releasing work publicly on the Web.
-
-- [Electronic Frontier Foundation](https://supporters.eff.org/donate/)
-- [Signal Foundation](https://signal.org/donate/)
-- [Mozilla](https://donate.mozilla.org/en-US/)
-- [The Internet Archive](https://archive.org/donate/index.php)
-
-
 # Related Projects
 
 - Inspired by a desire to improve upon
-  [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
-  match the GitHub UI
+  [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
