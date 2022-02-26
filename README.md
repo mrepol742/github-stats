@@ -1,4 +1,4 @@
-#github-stats
+# github-stats
 
 ![](https://github.com/mrepol742/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/mrepol742/github-stats/blob/master/generated/languages.svg)
