@@ -96,7 +96,7 @@ div.ellipsis {
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 69.447%;" class="progress-item"></span><span style="background-color: #e34c26;width: 14.065%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.240%;" class="progress-item"></span><span style="background-color: #563d7c;width: 4.347%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.276%;" class="progress-item"></span><span style="background-color: #555555;width: 0.395%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.375%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.365%;" class="progress-item"></span><span style="background-color: #178600;width: 0.247%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.165%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.032%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.019%;" class="progress-item"></span><span style="background-color: #6a40fd;width: 0.006%;" class="progress-item"></span><span style="background-color: #02f88c;width: 0.005%;" class="progress-item"></span><span style="background-color: #2F2530;width: 0.004%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.004%;" class="progress-item"></span><span style="background-color: #B83998;width: 0.003%;" class="progress-item"></span><span style="background-color: #b2b7f8;width: 0.003%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 69.437%;" class="progress-item"></span><span style="background-color: #e34c26;width: 14.077%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.238%;" class="progress-item"></span><span style="background-color: #563d7c;width: 4.347%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.276%;" class="progress-item"></span><span style="background-color: #555555;width: 0.395%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.375%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.365%;" class="progress-item"></span><span style="background-color: #178600;width: 0.247%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.165%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.032%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.019%;" class="progress-item"></span><span style="background-color: #6a40fd;width: 0.006%;" class="progress-item"></span><span style="background-color: #02f88c;width: 0.005%;" class="progress-item"></span><span style="background-color: #2F2530;width: 0.004%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.004%;" class="progress-item"></span><span style="background-color: #B83998;width: 0.003%;" class="progress-item"></span><span style="background-color: #b2b7f8;width: 0.003%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -108,7 +108,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">69.45%</span>
+<span class="percent">69.44%</span>
 </li>
 
 
@@ -117,7 +117,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">14.06%</span>
+<span class="percent">14.08%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">PHP</span>
-<span class="percent">0.38%</span>
+<span class="percent">0.37%</span>
 </li>
 
 
